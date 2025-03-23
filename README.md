@@ -57,3 +57,29 @@ Angular CLI does not come with an end-to-end testing framework by default. You c
 ## Additional Resources
 
 For more information on using the Angular CLI, including detailed command references, visit the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+
+
+1. Splitwise App 
+2. Weather App (same as WeatherApp open API)
+3. Smart Task App
+4. Chat Application (WebSocket's) Main
+5. Song ka API / Movies ke API pe Create a new App
+
+AJAX? (REST API) (HTTPS) Asynchronous JavaScript and XML 
+POLLING?        - Sending Request Again and again until we get any Ready Response
+Long Polling,   - Wait until have anything to Response
+Ws (WebSocket)  - Connection Check - Try Reconnect ReEstablish -  
+    Common Connection -> Brodcast throughout all Connected Connection
+     - Disconnection 
+        1. Server Load
+        2. Internet Not Available
+        3. Manually breaking Connection 
+
+AWS -> 
+    - Kubernatives (Hosting)
+        - Docker - Container 
+
+
+Angular 14/16/18 works on ->
+    - Zone JS or
+    - Signal
